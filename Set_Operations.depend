@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1461222776 source:c:\users\playa\documents\labs\set_operations\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1461224167 source:d:\zother\users\playa\documents\labs\set_operations\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1461778675 source:d:\zother\users\playa\documents\labs\set_operations\src\set_operations.cpp
+	"set_operations.h"
+
+1461778675 d:\zother\users\playa\documents\labs\set_operations\include\set_operations.h
+
